@@ -1,0 +1,431 @@
+/* For laptop Resolution */  
+@media only screen   
+and (min-width: 1030px)   
+and (max-width: 1605px)  
+{
+body {
+    background-color: white;
+    padding: 0px;
+    width: 1280px;
+    overflow-x: hidden;
+    overflow-y: scroll;
+    margin: 0px;
+    margin-bottom: 0px;
+    
+}
+
+.container1 {
+    background-color: #0000ff;
+    width: 1280px;
+    height: 350px;
+    position: relative;
+}
+
+.container2 {
+    background-image: url("wave\ \(2\).png");
+    width: 1280px;
+    height: 300px;
+    position: relative;
+    bottom: 40px;
+}
+
+.logo {
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    bottom: 50;
+    left: 0px;
+}
+
+.home {
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+    position: relative;
+    left: 600px;
+    top: 50px;
+}
+
+.home:active, .home:hover {
+    color: lightblue;
+
+}
+
+.about {
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+    position: relative;
+    left: 630px;
+    top: 50px;
+}
+
+.about:active, .about:hover {
+    color: lightblue;
+    
+}
+
+.skill {
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+    position: relative;
+    left: 660px;
+    top: 50px;
+}
+
+.skill:active, .skill:hover {
+    color: lightblue;
+    
+}
+
+.service {
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+    position: relative;
+    left: 680px;
+    top: 50px;
+}
+
+.service:active, .service:hover {
+    color: lightblue;
+    
+}
+
+.contact {
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+    position: relative;
+    left: 710px;
+    top: 50px;
+}
+
+.contact:active, .contact:hover {
+    color: lightblue;
+    
+}
+
+.radio {
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+    position: relative;
+    left: 730px;
+    top: 50px;
+    background-color: lightgreen;
+    padding-right: 12px;
+    padding-left: 12px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    border-radius: 20px;
+}
+
+.radio:active, .radio:hover {
+    color: lightblue;
+    background-color: darkgreen;
+    
+}
+
+h1 {
+    color: white;
+    font-size: 40px;
+    position: relative;
+    left: 430px;
+    top: 150px;
+}
+
+.contact2 {
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+    position: relative;
+    left: 570px;
+    top: 0px;
+    background-color: lightgreen;
+    padding-right: 12px;
+    padding-left: 12px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    border-radius: 20px;
+
+}
+
+.contact2:active, .contact2:hover {
+    color: lightblue;
+    background-color: darkgreen;
+    
+}
+
+.container3 {
+    background-color: white;
+    width: 1100px;
+    height: 250px;
+    position: relative;
+    left: 100px;
+    border-radius: 16px;
+    box-shadow: 0 0 30px rgb(80 80 81 / 55%);
+    
+}
+
+.introduction {
+    color: black;
+    font-size: 25px;
+    position: relative;
+    top: 15px;
+    left: 15px;
+    font-family: 'Lobster', cursive;
+}
+
+span {
+    color: blue;
+}
+
+.contact3 {
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+    position: relative;
+    left: 60px;
+    top: 15px;
+    background-color: green;
+    padding-right: 12px;
+    padding-left: 12px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    border-radius: 20px;
+
+}
+
+.contact3:active, .contact3:hover {
+    color: white;
+    background-color: blue;
+    
+}
+
+h2 {
+    color: black;
+    font-family: 'Righteous', cursive;
+    font-size: 40px;
+    position: relative;
+    left: 20px;
+}
+
+.container4 {
+    background-color: white;
+    width: 250px;
+    height: 130px;
+    position: relative;
+    left: 50px;
+    border-radius: 16px;
+    box-shadow: 0 0 30px rgb(80 80 81 / 50%);
+}
+
+.html {
+    width: 80px;
+    height: 80px;
+    position: relative;
+    top: 25px
+}
+
+.html2 {
+    color: black;
+    font-family: 'Lobster', cursive;
+    font-size: 35px;
+    position: relative;
+    left: 100px;
+    bottom: 80px;
+}
+
+.container5 {
+    background-color: white;
+    width: 250px;
+    height: 130px;
+    position: relative;
+    left: 350px;
+    bottom: 130px;
+    border-radius: 16px;
+    box-shadow: 0 0 30px rgb(80 80 81 / 50%);
+}
+
+.css {
+    width: 100px;
+    height: 100px;
+    position: relative;
+    top: 15px
+}
+
+.css2 {
+    color: black;
+    font-family: 'Lobster', cursive;
+    font-size: 35px;
+    position: relative;
+    left: 100px;
+    bottom: 100px;
+}
+
+.container6 {
+    background-color: white;
+    width: 250px;
+    height: 130px;
+    position: relative;
+    left: 650px;
+    bottom: 260px;
+    border-radius: 16px;
+    box-shadow: 0 0 30px rgb(80 80 81 / 50%);
+}
+
+.javascript {
+    width: 100px;
+    height: 100px;
+    position: relative;
+    top: 15px
+}
+
+.javascript2 {
+    color: black;
+    font-family: 'Lobster', cursive;
+    font-size: 23px;
+    position: relative;
+    left: 95px;
+    bottom: 80px;
+}
+
+.container7 {
+    background-color: white;
+    width: 250px;
+    height: 130px;
+    position: relative;
+    left: 950px;
+    bottom: 390px;
+    border-radius: 16px;
+    box-shadow: 0 0 30px rgb(80 80 81 / 50%);
+}
+
+.php {
+    width: 100px;
+    height: 100px;
+    position: relative;
+    top: 15px
+}
+
+.php2 {
+    color: black;
+    font-family: 'Lobster', cursive;
+    font-size: 35px;
+    position: relative;
+    left: 100px;
+    bottom: 100px;
+}
+
+h3 {
+    color: black;
+    font-family: 'Righteous', cursive;
+    font-size: 40px;
+    position: relative;
+    left: 20px;
+    bottom: 350px;
+}
+
+.webdeveloper {
+    color: blue;
+    font-size: 30px;
+    font-family: 'Lobster', cursive;
+    position: relative;
+    left: 30px;
+    bottom: 370px;
+}
+
+.coach {
+    color: blue;
+    font-size: 30px;
+    font-family: 'Lobster', cursive;
+    position: relative;
+    left: 30px;
+    bottom: 390px;
+}
+
+.iradio {
+    color: blue;
+    font-size: 30px;
+    font-family: 'Lobster', cursive;
+    position: relative;
+    left: 30px;
+    bottom: 410px;
+}
+
+.eradio {
+    color: black;
+    font-family: 'Righteous', cursive;
+    font-size: 35px;
+    position: relative;
+    left: 30px;
+    bottom: 400px;
+}
+
+.audioplayer {
+    display: block;
+    border-radius: 20px;
+    margin:0 auto;
+    position: relative;
+    bottom: 400px;
+    background-color: blue;
+    right: 400px;
+}
+
+.listener {
+    position: relative;
+    left: 130px;
+    bottom: 350px;
+}
+
+/* Style inputs with type="text", select elements and textareas */
+input[type=text], select, textarea {
+    width: 100%; /* Full width */
+    padding: 12px; /* Some padding */ 
+    border: 1px solid #ccc; /* Gray border */
+    border-radius: 4px; /* Rounded borders */
+    box-sizing: border-box; /* Make sure that padding and width stays in place */
+    margin-top: 6px; /* Add a top margin */
+    margin-bottom: 16px; /* Bottom margin */
+    resize: vertical /* Allow the user to vertically resize the textarea (not horizontally) */
+  }
+  
+  /* Style the submit button with a specific background color etc */
+  input[type=submit] {
+    background-color: #04AA6D;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  /* When moving the mouse over the submit button, add a darker green color */
+  input[type=submit]:hover {
+    background-color: #45a049;
+  }
+  
+  /* Add a background color and some padding around the form */
+  .container {
+    width: 1200px;
+    border-radius: 5px;
+    background-color: blue;
+    padding: 20px;
+    position: relative;
+    left: 30px;
+    bottom: 300px;
+  }
+
+  h4 {
+    color: black;
+    font-family: 'Righteous', cursive;
+    font-size: 40px;
+    position: relative;
+    left: 20px;
+    bottom: 350px;
+  }
+}
+
+
